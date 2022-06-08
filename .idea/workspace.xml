@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2442f8b3-3363-4528-b166-2a924eef6e9c" name="Changes" comment="" />
+    <list default="true" id="2442f8b3-3363-4528-b166-2a924eef6e9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OctavoEjercicio.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OctavoEjercicio.xsd" beforeDir="false" afterPath="$PROJECT_DIR$/OctavoEjercicio.xsd" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2AEMkdN0bAhn2WKO54UvOj5cRUt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
